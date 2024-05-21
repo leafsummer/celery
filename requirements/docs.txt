@@ -3,3 +3,4 @@ Sphinx
 SQLAlchemy
 https://github.com/celery/py-amqp/zipball/master
 https://github.com/celery/kombu/zipball/master
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
